@@ -20,8 +20,8 @@
 
 ## 个人信息
 
-- **姓名**: 张三
-- **电话**: 19155126666
+- **姓名**: 赵东安
+- **电话**: 19154085798
 - **邮箱**: [solowzl@outlook.com](mailto:solowzl@outlook.com)
 - **GitHub**: [github.com/Ovo307000](https://github.com/Ovo307000)
 
